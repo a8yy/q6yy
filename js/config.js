@@ -12,9 +12,9 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'F8电影网',
-    url: 'https://f8yy.com',
-    description: '免费在线视频搜索与观看平台',
+    name: '夜魔影院',
+    url: 'https://q6yy.com',
+    description: '免费在线视频搜索平台',
     logo: 'image/logo.png',
     version: '1.0.3'
 };
